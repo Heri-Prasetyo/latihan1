@@ -28,7 +28,12 @@ dan git config --global user.name "kata sandi kalian"***
 
 ✓langkah selanjutnya kalian ketik  ***git init***
 
-
 <img src="latihan1 langkah kedua.png" alt="latihan1 langkah kedua.png"/>
 
+✓ketikan seperti gambar di bawah ini
 
+<img src="latihan1 langkah ketiga dan keempat.png" alt="latihan1 langkah ketiga dan keempat.png/>
+
+✓langkah berikutnya kalian ketik  ***git add README.md***
+
+<img src="latihan1 langkah kelima.png" alt="latihan1 langkah kelima.png"/>
