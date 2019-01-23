@@ -10,7 +10,7 @@
 
 4. ***git push -u origin master***,perintah untuk mengirim perubahan pada repository local menuju server repository
 
-5. ***git clone [url]***,perintah untuk menambahkan remote server/repository server pada local repository
+5. ***git clone [url]*** ,perintah untuk menambahkan remote server/repository server pada local repository
 
 **Langkah-langkah menggunakan git**
 
