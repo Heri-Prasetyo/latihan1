@@ -19,7 +19,8 @@ misalnya D://pemrograman.
 
 ✓langkah berikutnya buka folder yang kalian buat tadi klik kanan buka dengan git bash
 
-✓selanjutnya kalian ketikan seperti gambar ini
+✓selanjutnya kalian ketikan seperti gambar dibawah ini
+
 <img src="latihan1 langkah pertama.png" alt="latihan1 langkah pertama.png"/>
 
 
