@@ -44,6 +44,10 @@ dan git config --global user.name "kata sandi kalian"***
 
 <img src="latihan1 langkah keenam.png" alt="latihan1 langkah keenam.png"/>
 
-✓Selanjutnya ketik ***git commit -m "file pertama saya"
+✓Selanjutnya ketik ***git commit -m "file pertama saya"***
 
 <img src="latihan1 langkah ketujuh.png" alt="latihan1 langkah ketujuh"/>
+
+✓setelah itu kalian masukan ***link repository github*** yang sudah kalian buat , contohnya seperti dibawah ini
+
+<img src="latihan1 langkah kedelapan.png" alt="latihan1 langkah kedelapan.png"/>
