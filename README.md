@@ -62,3 +62,5 @@ dan git config --global user.name "kata sandi kalian"***
 <img src="latihan1 langkah ke10.png" alt="latihan1 langkah ke10.png"/>
 
 <img src="latihan1 langkah ke13.png" alt="latihan1 langkah ke13.png"/>
+
+✓Selanjutnya jika kalian sudah membuat isi readme.nya kalian simpan dengan menenkan tombol ***ctrl+x*** lalu tekan ***Y*** setelah itu tekan enter***
