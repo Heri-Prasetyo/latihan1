@@ -15,6 +15,10 @@
 **#latihan membuat repository**
 
 ✓langkah pertama kalian buat folder di komputer kalian di bagian D://
-misalnya D://pemrograman
-✓langkah berikutnya boleh 
+misalnya D://pemrograman.
+
+✓langkah berikutnya buka folder yang kalian buat tadi klik kanan buka dengan git bash
+
+✓selanjutnya kalian ketikan seperti gambar ini
+
 
