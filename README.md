@@ -23,4 +23,8 @@ misalnya D://pemrograman.
 
 <img src="latihan1 langkah pertama.png" alt="latihan1 langkah pertama.png"/>
 
+✓langkah selanjutnya kalian ketikan 
+
+<img src="latihan1 langkah kedua.png" alt="latihan1 langkah kedua.png"/>
+
 
