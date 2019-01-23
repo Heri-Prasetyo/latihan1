@@ -43,3 +43,7 @@ dan git config --global user.name "kata sandi kalian"***
 ✓Setelah itu kalian ketikan ***git status***
 
 <img src="latihan1 langkah keenam.png" alt="latihan1 langkah keenam.png"/>
+
+✓Selanjutnya ketik ***git commit -m "file pertama saya"
+
+<img src="latihan1 langkah ketujuh.png" alt="latihan1 langkah ketujuh"/>
