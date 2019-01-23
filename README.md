@@ -32,7 +32,7 @@ dan git config --global user.name "kata sandi kalian"***
 
 ✓ketikan seperti gambar di bawah ini
 
-<img src="latihan1 langkah ketiga dan keempat.png" alt="latihan1 langkah ketiga dan keempat.png/>
+<img src="latihan1 langkah ketiga dan keempat.png" alt="latihan1 langkah ketiga dan keempat.png"/>
 
 ✓langkah berikutnya kalian ketik  ***git add README.md***
 
