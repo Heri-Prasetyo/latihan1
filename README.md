@@ -19,6 +19,8 @@ misalnya D://pemrograman.
 
 ✓langkah berikutnya buka folder yang kalian buat tadi klik kanan buka dengan git bash
 
+✓sebelum berlanjut ke langkah berikutnya kalian bisa membuat reposirory dulu di github, nama file latihan1
+
 ✓ Selesai masuk ke git bash kalian masukan file  ***git config --global user.name "email github kalian"
 dan git config --global user.name "kata sandi kalian"***
 
@@ -37,3 +39,7 @@ dan git config --global user.name "kata sandi kalian"***
 ✓langkah berikutnya kalian ketik  ***git add README.md***
 
 <img src="latihan1 langkah kelima.png" alt="latihan1 langkah kelima.png"/>
+
+✓Setelah itu kalian ketikan ***git status***
+
+<img src="latihan1 langkah keenam.png" alt="latihan1 langkah keenam.png"/>
