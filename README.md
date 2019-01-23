@@ -1,4 +1,4 @@
-**#latihan 1**
+#latihan 1
 **langkah - langkah membuat README.md**
 1.git init,perintah untuk membuat repositary local
 2.git add,perintah untuk menambahkan file baru , atau perubahan pada file pada staging sebelum proses commit
