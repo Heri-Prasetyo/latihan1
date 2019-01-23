@@ -48,6 +48,14 @@ dan git config --global user.name "kata sandi kalian"***
 
 <img src="latihan1 langkah ketujuh.png" alt="latihan1 langkah ketujuh"/>
 
-✓setelah itu kalian masukan ***link repository github*** yang sudah kalian buat , contohnya seperti dibawah ini
+✓berikutnya ketik ***git remote add origin*** dan kalian masukan ***link repository github*** yang sudah kalian buat , contohnya seperti dibawah ini
 
 <img src="latihan1 langkah kedelapan.png" alt="latihan1 langkah kedelapan.png"/>
+
+✓setelah itu ketik ***git push -u origin master*** hasilnya seperti gambar ini
+
+<img src="latihan1 langkah kesembilan.png" alt="latihan1 langkah kesembilan.png"/>
+
+✓nah disini kalian membuat isi readme.md dengan cara ketik nano nanti akan muncul gambar seperti ini
+
+<img src="latihan1 langkah ke10.png" alt="latihan1 langkah ke10.png"/>
