@@ -56,7 +56,8 @@ dan git config --global user.name "kata sandi kalian"***
 
 <img src="latihan1 langkah kesembilan.png" alt="latihan1 langkah kesembilan.png"/>
 
-✓nah disini kalian membuat isi readme.md dengan cara ketik nano nanti akan muncul gambar seperti ini
+✓nah disini kalian membuat isi readme.md dengan cara ketik
+***nano*** nanti akan muncul gambar seperti ini misalnya kalian membuat tutorial cara menggunakan git
 
 <img src="latihan1 langkah ke10.png" alt="latihan1 langkah ke10.png"/>
 
