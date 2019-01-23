@@ -12,7 +12,7 @@
 
 5.git clone [url],perintah untuk menambahkan remote server/repository server pada local repository
 
-**#latihan menggunakan **
+**Langkah-langkah menggunakan git**
 
 ✓langkah pertama kalian buat folder di komputer kalian di bagian D://
 misalnya D://pemrograman.
