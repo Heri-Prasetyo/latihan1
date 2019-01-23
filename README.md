@@ -64,3 +64,5 @@ dan git config --global user.name "kata sandi kalian"***
 <img src="latihan1 langkah ke13.png" alt="latihan1 langkah ke13.png"/>
 
 ✓Selanjutnya jika kalian sudah membuat isi readme.nya kalian simpan dengan menenkan tombol ***ctrl+x*** lalu tekan ***Y*** setelah itu tekan ***enter***
+
+✓hasilnya file akan secara otomatis terkirim atau terhubung ke Akun Github kalian ,Coba kalian cek repository yang kalian buat tadi apakah berubah readme.nya kalau berubah dan ada file tutorial yang kalian buat artinya berhasil.
