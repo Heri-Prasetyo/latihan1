@@ -19,14 +19,14 @@ misalnya D://pemrograman.
 
 ✓langkah berikutnya buka folder yang kalian buat tadi klik kanan buka dengan git bash
 
-✓ Selesai masuk ke git bash kalian masukan file git config --global user.name "email github kalian"
-dan git config --global user.name "kata sandi kalian"
+✓ Selesai masuk ke git bash kalian masukan file  ***git config --global user.name "email github kalian"
+dan git config --global user.name "kata sandi kalian"***
 
 ✓selanjutnya kalian ketikan seperti gambar dibawah ini untuk membuat repository local
 
 <img src="latihan1 langkah pertama.png" alt="latihan1 langkah pertama.png"/>
 
-✓langkah selanjutnya kalian ketik git init
+✓langkah selanjutnya kalian ketik  ***git init***
 
 
 <img src="latihan1 langkah kedua.png" alt="latihan1 langkah kedua.png"/>
