@@ -14,8 +14,7 @@
 
 **Langkah-langkah menggunakan git**
 
-✓langkah pertama kalian buat folder di komputer kalian di bagian D://
-misalnya D://pemrograman.
+✓langkah pertama kalian buat folder di komputer kalian di bagian ***D:\pemrograman*** dan direktori aktif menjadi ***D:\pemrograman\latihan1***
 
 ✓langkah berikutnya buka folder yang kalian buat tadi klik kanan buka dengan git bash
 
